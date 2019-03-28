@@ -1,12 +1,10 @@
 adapt-parser==0.3.2
-certifi==2017.4.17
-chardet==3.0.4
 configobj==5.0.6
 feedparser==5.2.1
-idna==2.5
+idna==2.8
 mustache==0.1.4
 pyee==5.0.0
 requests==2.20.0
 six==1.10.0
-urllib3==1.21.1
+urllib3==1.24.1
 websocket-client==0.54.0
