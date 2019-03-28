@@ -5,8 +5,8 @@ configobj==5.0.6
 feedparser==5.2.1
 idna==2.5
 mustache==0.1.4
-pyee==1.0.1
-requests==2.18.1
+pyee==5.0.0
+requests==2.20.0
 six==1.10.0
 urllib3==1.21.1
-websocket-client==0.32.0
+websocket-client==0.54.0
